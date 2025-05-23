@@ -11,8 +11,8 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, and Python**
 - 🛠️ Exploring **full-stack development** and **clean code architecture**
-- 👨‍💻 All of my projects are available at [your portfolio link or GitHub Projects tab]
-- 📫 How to reach me: [your email] or [LinkedIn]
+- 👨‍💻 All of my projects are available at Coming soon
+- 📫 How to reach me: Coming Soon or Coming soon
 
 ---
 
@@ -36,5 +36,4 @@
 
 ---
 
-### ⚡ Fun fact:
-_I debug like Sherlock and refactor like a ninja._
+### ⚡ Baby Come Back any kinda fool could see i was wrong and i just cant live without you </3 
