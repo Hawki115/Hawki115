@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <div align="center">
-<h1 align="center">Hi 👋, I'm Conno</h1>
+<h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">💻 CS Student | 👨‍🎓 Class of 2026 | 🌐 Full-Stack Dev</h3>
 
 <p>
